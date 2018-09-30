@@ -1,0 +1,15 @@
+.nav-link {
+    color: grey
+}
+.nav-link:hover {
+    color: gray;
+}
+body {
+    background-color: grey;
+}
+.container {
+    background-color: white;
+}
+p {
+    float: left;
+}
